@@ -1,0 +1,2 @@
+# selamm
+Mavi tik
